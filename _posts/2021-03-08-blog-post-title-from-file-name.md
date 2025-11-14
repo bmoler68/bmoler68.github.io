@@ -30,3 +30,14 @@ ForEach ($thing in $things) {
     Write-Output "It highlights it using the GitHub style"
 }
 ```
+
+```python
+def flatten_list(nested_list):
+    if not(bool(nested_list)):
+        return nestedList
+ 
+    if isinstance(nested_list[0], list):
+        return flatten_list(*nested_list[:1]) + flatten_list(nested_list[1:])
+ 
+    return nested_list[:1] + flatten_list(nested_list[1:])
+```
