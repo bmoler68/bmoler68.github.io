@@ -1,5 +1,5 @@
 ---
-tags: "2025"
+tags: ["2025"]
 ---
 
 ## Welcome to My Android Development Blog
@@ -36,7 +36,7 @@ However, through research and some experience using these tools, I know there ar
 
 ### Where to Find My Apps
 
-My successful AI-generated apps can be downloaded from [https://bmoler68.github.io/Releases/](https://bmoler68.github.io/Releases/) for free. I hope the results will be as enjoyable for you as they were for me in creating them.
+My successful AI-generated apps can be downloaded from [Android Application Releases](https://bmoler68.github.io/Releases/) for free. I hope the results will be as enjoyable for you as they were for me in creating them.
 
 
 ### About This Blog
