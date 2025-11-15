@@ -34,9 +34,159 @@ ForEach ($thing in $things) {
 #### Some Kotlin Code
 ```kotlin
 fun main(args: Array< String >) 
-{val str1: String? = “Hello World”var str2: String? = null 
+{val str1: String? = "Hello World"var str2: String? = null 
 // prints String is nullif(str1 is String) 
-          {// No Explicit type Casting needed.println(“length of String ${str1.length}”)}
+          {// No Explicit type Casting needed.println("length of String ${str1.length}")}
 else 
-          {println(“String is null”)}}
+          {println("String is null")}}
+```
+
+#### Some Bash Code
+```bash
+#!/bin/bash
+name="World"
+echo "Hello, $name!"
+for i in {1..5}; do
+    echo "Iteration $i"
+done
+```
+
+#### Some Java Code
+```java
+public class HelloWorld {
+    public static void main(String[] args) {
+        String message = "Hello, World!";
+        System.out.println(message);
+        
+        int sum = 0;
+        for (int i = 1; i <= 10; i++) {
+            sum += i;
+        }
+        System.out.println("Sum: " + sum);
+    }
+}
+```
+
+#### Some JavaScript Code
+```javascript
+function greet(name) {
+    return `Hello, ${name}!`;
+}
+
+const users = ['Alice', 'Bob', 'Charlie'];
+users.forEach(user => {
+    console.log(greet(user));
+});
+
+// Arrow function example
+const add = (a, b) => a + b;
+console.log(add(5, 3));
+```
+
+#### Some JSON Code
+```json
+{
+  "name": "John Doe",
+  "age": 30,
+  "city": "New York",
+  "hobbies": ["reading", "coding", "hiking"],
+  "address": {
+    "street": "123 Main St",
+    "zipcode": "10001"
+  }
+}
+```
+
+#### Some Perl Code
+```perl
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $name = "World";
+print "Hello, $name!\n";
+
+my @numbers = (1, 2, 3, 4, 5);
+foreach my $num (@numbers) {
+    print "$num\n";
+}
+```
+
+#### Some Python Code
+```python
+def greet(name):
+    return f"Hello, {name}!"
+
+class Person:
+    def __init__(self, name, age):
+        self.name = name
+        self.age = age
+    
+    def introduce(self):
+        return f"I'm {self.name} and I'm {self.age} years old."
+
+person = Person("Alice", 30)
+print(person.introduce())
+```
+
+#### Some Shell Code
+```shell
+#!/bin/sh
+echo "Hello from shell script"
+count=0
+while [ $count -lt 5 ]; do
+    echo "Count: $count"
+    count=$((count + 1))
+done
+```
+
+#### Some SQL Code
+```sql
+SELECT 
+    u.id,
+    u.name,
+    COUNT(o.id) AS order_count
+FROM users u
+LEFT JOIN orders o ON u.id = o.user_id
+WHERE u.created_at > '2024-01-01'
+GROUP BY u.id, u.name
+HAVING COUNT(o.id) > 0
+ORDER BY order_count DESC;
+```
+
+#### Some XML Code
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+    <book id="1">
+        <title>Introduction to Programming</title>
+        <author>John Smith</author>
+        <price>29.99</price>
+    </book>
+    <book id="2">
+        <title>Advanced Algorithms</title>
+        <author>Jane Doe</author>
+        <price>49.99</price>
+    </book>
+</bookstore>
+```
+
+#### Some YAML Code
+```yaml
+name: John Doe
+age: 30
+city: New York
+hobbies:
+  - reading
+  - coding
+  - hiking
+address:
+  street: 123 Main St
+  zipcode: 10001
+skills:
+  programming:
+    - Python
+    - JavaScript
+    - Java
+  level: advanced
 ```
