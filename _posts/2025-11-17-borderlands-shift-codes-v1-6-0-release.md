@@ -4,8 +4,6 @@ tags: ["2025", "Releases"]
 
 ## Borderlands SHiFT Codes v1.6.0 - Open Source Release
 
-![Borderlands SHiFT Codes Banner](/images/BorderlandsSHiFTCodes/Banner.png)
-
 I'm excited to announce the release of **Borderlands SHiFT Codes v1.6.0** and the open sourcing of this application! This version marks a significant milestone as the codebase is now publicly available on GitHub under the MIT License.
 
 ### About the Application
