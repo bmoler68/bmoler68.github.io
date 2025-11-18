@@ -36,7 +36,7 @@ However, through research and some experience using these tools, I know there ar
 
 ### Where to Find My Apps
 
-My successful AI-generated apps can be downloaded from [Android Application Releases](https://bmoler68.github.io/Releases/) for free. I hope the results will be as enjoyable for you as they were for me in creating them.
+My successful AI-generated apps can be downloaded from [Android Application Releases](https://bmoler68.github.io/Releases/) for free. I also plan to make all of the application code available on GitHub as well.  I hope the results will be as enjoyable for you as they were for me in creating them.
 
 
 ### About This Blog
