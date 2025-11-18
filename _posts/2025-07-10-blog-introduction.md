@@ -9,7 +9,7 @@ I'm excited to share my journey of developing Android applications using AI agen
 
 ### The Experiment
 
-At the moment, I am focused on developing Android applications related to things I enjoy, using AI agents and tools as an experiment and learning experience. This will allow for me to learn a new technical discipline, while also providing insights into what is currently possible with the current state of AI-driven development.
+At the moment, I am focused on developing Android applications related to things I enjoy, using AI agents and tools as an experiment and learning experience. This will allow for me to learn a new technical discipline, while also providing insights into what is currently possible with the current state of AI-driven development.  These applications will be developed 100% using AI tools and agents.  While this is not the ideal use of the technology for application development, I am eager to see what the agents are capable of with my guidance.
 
 
 ### The Current State of AI Development
