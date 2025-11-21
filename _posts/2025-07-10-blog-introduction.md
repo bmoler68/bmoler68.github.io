@@ -9,29 +9,7 @@ I'm excited to share my journey of developing Android applications using AI agen
 
 ### The Experiment
 
-At the moment, I am focused on developing Android applications related to things I enjoy, using AI agents and tools as an experiment and learning experience. This will allow for me to learn a new technical discipline, while also providing insights into what is currently possible with the current state of AI-driven development.  These applications will be developed 100% using AI tools and agents.  While this is not the ideal use of the technology for application development, I am eager to see what the agents are capable of with my guidance.
-
-
-### The Current State of AI Development
-
-Currently, there are many issues facing AI driven development:
-
-- **Resource demands and cost**
-- **Hallucination** 
-- **Agents learning from low-quality data that creates incorrect results and biases**
-- **Context continuity and limitations**
-- **Agents being overconfident in their responses**
-
-And others, like failure to cleanup **dead code**, **security and vulnerability issues**, and more.  I don't think that agentic AI development is currently at a state where it can 100% reliably create complex applications without a person with significant technology and development experience to provide proper technical guidance and cleanup any resulting messes that the AI agents create.
-
-However, through research and some experience using these tools, I know there are currently ways to somewhat mitigate some of the current limitations. Some of these mitigation techniques include:
-
-- **Prompt and context engineering**: Carefully crafting prompts and maintaining context throughout the development process
-- **Limiting scope**: Breaking down complex requests into smaller, more manageable efforts
-- **Iterative refinement**: Using multiple passes and refinement cycles to improve output quality
-- **Human oversight and validation**: Reviewing and validating AI-generated code at each stage
-- **Hybrid approaches**: Combining AI assistance with traditional development practices where needed
-- **Version control and testing**: Implementing rigorous testing and version control to catch issues early
+At the moment, I am focused on developing Android applications related to things I enjoy, using AI agents and tools as an experiment and learning experience. This will allow for me to learn a new technical discipline, while also providing insights into what is currently possible with the current state of AI-driven development.  These applications will be developed 100% using AI tools and agents.  While "vibe coding" is not the ideal use of the technology for application development, I am eager to see what the agents are capable of with my guidance.
 
 
 ### Where to Find My Apps
