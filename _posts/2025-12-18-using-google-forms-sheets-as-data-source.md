@@ -74,8 +74,8 @@ Using Google Forms and Sheets as a data source was ideal for my first Android ap
 
 ### Conclusion
 
-Publishing Google Forms and Sheets as a public data source transformed what could have been a complex backend project into a simple, manageable solution. For the Borderlands SHiFT Codes app, it provided exactly what I needed: a way to collect, store, and serve data without building unnecessary infrastructure.
+Publishing Google Forms and Sheets as a public data source transformed what could have been a complex backend project into a simple, manageable solution. For the Borderlands SHiFT Codes app, it provided a way to collect, store, and serve data without building unnecessary infrastructure.
 
-This approach might not be suitable for every application.  If you need complex queries, authentication, or high-performance requirements, you'll eventually need a proper backend. But for simple data collection and distribution, especially when you're learning or prototyping, it's a surprisingly powerful solution that lets you focus on what matters most: building your app.
+This approach might not be suitable for every application.  If you need complex queries, authentication, or high-performance requirements, you'll eventually need a proper backend. But for simple data collection and distribution, especially when you're learning or prototyping, it's a surprisingly powerful solution that lets you focus on building your app.
 
 If you're working on your first mobile app and feeling overwhelmed by the prospect of building a backend, consider giving this approach a try. Sometimes the simplest solution is the best one.
