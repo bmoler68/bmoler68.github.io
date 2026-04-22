@@ -20,7 +20,7 @@ Additionally, this version includes significant **image asset optimization** whi
 
 ### Download and Resources
 
-- **📥 Download APK**: [Android Application Releases](https://bmoler68.github.io/Releases/)
+- **📥 Download APK**: [Android Application Releases](https://www.brianmoler.com/releases/releases.html)
 - **🔗 GitHub Repository**: [HexaRoll on GitHub](https://github.com/bmoler68/HexaRoll)
 
 For questions, support, or feedback, please contact me at bmoler@brianmoler.com.

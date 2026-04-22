@@ -14,7 +14,7 @@ At the moment, I am focused on developing Android applications related to things
 
 ### Where to Find My Apps
 
-My successful AI-generated apps can be downloaded from [Android Application Releases](https://bmoler68.github.io/Releases/) for free. I also plan to make all of the application code available on GitHub as well.  I hope the results will be as enjoyable for you as they were for me in creating them.
+My successful AI-generated apps can be downloaded from [Android Application Releases](https://www.brianmoler.com/releases/releases.html) for free. I also plan to make all of the application code available on GitHub as well.  I hope the results will be as enjoyable for you as they were for me in creating them.
 
 
 ### About This Blog
