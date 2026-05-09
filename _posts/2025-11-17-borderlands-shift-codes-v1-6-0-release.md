@@ -18,7 +18,7 @@ This release represents the **open source release** of the application. The comp
 
 ### Download and Resources
 
-- **📥 Download APK**: [Android Application Releases](https://www.brianmoler.com/releases/releases.html)
+- **📥 Download APK**: [Application Releases](https://www.brianmoler.com/releases/releases.html)
 - **🔗 GitHub Repository**: [BorderlandsSHiFTCodes on GitHub](https://github.com/bmoler68/BorderlandsSHiFTCodes)
 
 For questions, support, or feedback, please contact me at bmoler@brianmoler.com.
