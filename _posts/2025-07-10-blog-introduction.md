@@ -23,7 +23,7 @@ I thought that I would create a simple blog that could be used to document my An
 
 [How to Build a SQL Blog - Chad Baldwin](https://chadbaldwin.net/2021/03/14/how-to-build-a-sql-blog.html)
 
-This is a Jekyll-based static site solution using the Minima theme and hosted using GitHub pages.  It also uses Highlight.js for syntax highlighting.  I used Chad's template and made a slight footer layout change and also added additional Highlight.js languages related to my tech stack.
+This is a Jekyll-based static site solution using the Minima theme and hosted using GitHub pages.  It also uses Highlight.js for syntax highlighting.  I used Chad's template and made a slight footer layout change and added additional Highlight.js languages related to my tech stack.  I also enabled Minima home layout with paginated post list on the homepage and altered the sorting of the archive by tag and desc post date.
 
 I will use this blog for relaying information about the applications I am developing and some of the successes and failures of using generative AI and agents to do this development. Through this blog, I hope to provide valuable insights for others who are interested in exploring AI-assisted development, whether for Android applications or other projects.
 
