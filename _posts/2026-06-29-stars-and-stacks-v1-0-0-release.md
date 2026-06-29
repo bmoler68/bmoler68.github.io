@@ -1,5 +1,6 @@
 ---
 tags: ["2026", "Releases"]
+title: "Stars&Stacks v1.0.0"
 ---
 
 ## Stars&Stacks v1.0.0
